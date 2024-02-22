@@ -142,3 +142,23 @@ body {
     margin: 2em;
     font-size: 14px;
 }
+
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+    }
+
+    .container__imagem {
+        width: 30vw;
+    }
+
+    .container__caixa {
+        width: 100%;
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+
+    .container__filmes {
+        display: none;
+    }
+}
