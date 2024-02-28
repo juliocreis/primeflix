@@ -1,6 +1,6 @@
 # Primeflix
 
-Este é um projeto de site para a plataforma de streaming Primeflix, criado como parte de um projeto de desenvolvimento web.
+Este é um projeto de site de uma plataforma de streaming que inventei chamada Primeflix, criado como parte de um projeto de desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
